@@ -1,3 +1,4 @@
+deployment link:::https://food-resturant-q2.netlify.app/
 deployment link:: https://food-restaurant-seven-psi.vercel.app/
 
 
